@@ -1,0 +1,13 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jayson": "^2.0.6",
+    "jsonwebtoken": "^8.3.0",
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0"
+  }
+}
